@@ -1,0 +1,5 @@
+{
+  "name": "Paint Combustibility Predictor",
+  "description": "An application to predict the combustibility of paint and varnish materials based on their elemental composition using a simulated Multilayer Perceptron (MLP) model with Gemini.",
+  "requestFramePermissions": []
+}
